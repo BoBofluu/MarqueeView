@@ -1,15 +1,14 @@
 # ![This is an image](MarqueeView/Assets.xcassets/MarqueeImage.imageset/MarqueeImage.png)MarqueeView
 
-
-https://user-images.githubusercontent.com/72377374/220001988-ba5d0ee3-47fe-4421-8bcd-0630757ca200.mov
+![未命名](https://user-images.githubusercontent.com/72377374/220232520-95203fa5-d76f-4705-a6de-47611b014cf9.gif)
 
 ### Tap
 
-https://user-images.githubusercontent.com/72377374/220003888-a02e1e02-47ba-4a19-a6ff-7de6374bb181.mov
+![未命名 5](https://user-images.githubusercontent.com/72377374/220232670-b3de2478-b99e-49c1-a7ad-c4942a91b4d3.gif)
 
 ### Drag && long tap to pause
 
-https://user-images.githubusercontent.com/72377374/220004007-84700c05-7214-4c78-b8a5-3c3d221dfe9d.mov
+![未命名 3](https://user-images.githubusercontent.com/72377374/220232536-b066392f-c1d3-4054-90e2-23fc6bba062c.gif)
 
 # Setup
 
