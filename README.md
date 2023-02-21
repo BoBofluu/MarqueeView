@@ -4,7 +4,7 @@
 
 ### Tap
 
-https://user-images.githubusercontent.com/72377374/220235661-73065ad2-e794-4c4c-8667-59888fbd366b.mov
+![second](https://user-images.githubusercontent.com/72377374/220235811-2ac72188-938c-449c-b492-12b90d44cecd.gif)
 
 ### Drag && long tap to pause
 
